@@ -1,0 +1,7 @@
+{
+  "extends": ["react-app", "eslint:recommended", "plugin:react/recommended"],
+  "rules": {
+    "react/jsx-no-bind": "warn",
+    "react/display-name": "warn"
+  }
+}
